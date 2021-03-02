@@ -1,2 +1,2 @@
 # DeRefuerzo
-Actividad del teatro y máquina expendedora de programación
+Actividad máquina expendedora de programación
